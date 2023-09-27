@@ -1,0 +1,16 @@
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.csproj.AssemblyReference.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.AssemblyInfoInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.AssemblyInfo.cs
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.csproj.CoreCompileInputs.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.exe
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.deps.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.runtimeconfig.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.runtimeconfig.dev.json
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\bin\Debug\net5.0\jeu_de_maths.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\refint\jeu_de_maths.dll
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.pdb
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\jeu_de_maths.genruntimeconfig.cache
+C:\Users\AbdoulayePangnonKOUL\source\repos\Jonathan\jeu_de_maths\jeu_de_maths\obj\Debug\net5.0\ref\jeu_de_maths.dll
